@@ -1,0 +1,22 @@
+{
+  "name": "o365",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bizglue/o365.git"
+  },
+  "author": "Bizglue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bizglue/o365/issues"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
